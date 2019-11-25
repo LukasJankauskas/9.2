@@ -1,0 +1,37 @@
+html {
+  font-size: 0;
+}
+
+p {
+  font-size: 16px;
+}
+.a {
+    color: #F51638;
+}
+
+.b {
+color:  #17C725;
+}
+.c {
+  color: #125BDA
+}
+
+.a, .b, .c {
+  display: inline;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+}
+.box {
+  width: 50%;
+  height: 300px;
+  display: inline-block;
+}
+.dodger {
+  background-color: blue;
+}
+.tomato {
+  background-color: tomato;
+}
